@@ -24,7 +24,7 @@ This is a simple command-line number guessing game written in Python while learn
 ## How to run
 
 ```bash
-python pythontestnotebook.py
+python python_number_guessing_game.py
 ```
 
 ## Future improvements
