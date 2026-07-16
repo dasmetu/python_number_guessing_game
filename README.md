@@ -10,6 +10,7 @@ This is a simple command-line number guessing game written in Python while learn
 - Integer input validation
 - Higher / Lower hints
 - Guess counter
+- Replayability
 
 ## Skills practiced
 
@@ -23,7 +24,7 @@ This is a simple command-line number guessing game written in Python while learn
 ## How to run
 
 ```bash
-python guess_game.py
+python pythontestnotebook.py
 ```
 
 ## Future improvements
