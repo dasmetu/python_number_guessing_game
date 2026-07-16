@@ -58,3 +58,5 @@ def game_loop():
     print("YOU WON")
     print(f"The number was {random_number} ,and you guessed it in {number_of_guesses} tries")
     break
+
+game_loop()
